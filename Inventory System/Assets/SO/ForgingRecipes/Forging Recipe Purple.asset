@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a7a91a0b717a2469d87cdde68e6121, type: 3}
+  m_Name: Forging Recipe Purple
+  m_EditorClassIdentifier: 
+  recipeName: Forging Recipe Purple
+  inputItems:
+  - itemData: {fileID: 11400000, guid: 14ed3f8d70f443b45b477645e231d8f4, type: 2}
+    count: 5
+  - itemData: {fileID: 11400000, guid: d292dacec516d394f9e5784f3a1b8aa9, type: 2}
+    count: 5
+  outputItem: {fileID: 11400000, guid: cea3c2763d7d93a488528ec70190c806, type: 2}
+  outputCount: 1

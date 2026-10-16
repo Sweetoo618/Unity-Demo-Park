@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a7a91a0b717a2469d87cdde68e6121, type: 3}
+  m_Name: Forging Recipe Red
+  m_EditorClassIdentifier: 
+  recipeName: Forging Recipe Red
+  inputItems:
+  - itemData: {fileID: 11400000, guid: 10a3791fea874024a9a733434f6ace47, type: 2}
+    count: 5
+  - itemData: {fileID: 11400000, guid: 47dae6893487a7a49a48bab77fbf3b2c, type: 2}
+    count: 5
+  outputItem: {fileID: 11400000, guid: 255cc4d68d8d11f4ca2c0cb0e34e0502, type: 2}
+  outputCount: 1
